@@ -43,15 +43,15 @@
 
 <h1 align="center"><i>My GitHub stats:</i></h1>
 <hr>
-
+<p style="backgroundcolor: green"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
+<br><hr>
 
 <a href="https://github.com/KaustubhBadve/github-readme-stats"><img alt="Kaustubh Badve's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KaustubhBadve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/KaustubhBadve/github-readme-stats"><img alt="Kaustubh Badve's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhBadve&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 <hr>
-<p style="backgroundcolor: green"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
-<br>
+
 <a href="https://github.com/KaustubhBadve/github-readme-activity-graph"><img alt="Kaustubh Badve's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KaustubhBadve&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/></p>
 

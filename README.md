@@ -50,6 +50,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhbadve&show_icons=true&locale=en" alt="kaustubhbadve" /></p>
 
 
+
+
+<a href="https://github.com/KaustubhBadve/github-readme-stats"><img alt="Kaustubh Badve's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KaustubhBadve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/KaustubhBadve/github-readme-stats"><img alt="Kaustubh Badve's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhBadve&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
 <hr>
 <p style="backgroundcolor: green"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
 <br>

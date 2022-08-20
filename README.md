@@ -44,13 +44,6 @@
 <h1 align="center"><i>My GitHub stats:</i></h1>
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhbadve&show_icons=true&locale=en&layout=compact" alt="kaustubhbadve" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhbadve&show_icons=true&locale=en" alt="kaustubhbadve" /></p>
-
-
-
 
 <a href="https://github.com/KaustubhBadve/github-readme-stats"><img alt="Kaustubh Badve's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KaustubhBadve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/KaustubhBadve/github-readme-stats"><img alt="Kaustubh Badve's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhBadve&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>

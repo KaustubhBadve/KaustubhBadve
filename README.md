@@ -43,7 +43,7 @@
 
 <h1 align="center"><i>My GitHub stats:</i></h1>
 <hr>
-<p style="backgroundcolor: green"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
+<p style="backgroundcolor: green" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
 <br><hr>
 
 <a href="https://github.com/KaustubhBadve/github-readme-stats"><img alt="Kaustubh Badve's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KaustubhBadve&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>

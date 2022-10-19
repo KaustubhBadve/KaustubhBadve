@@ -12,7 +12,7 @@
 
 <p align="left"> 
 
- ➥ Here is my Resume : <a href="https://drive.google.com/file/d/10MjgjBuYSe9hnUWkhh3WTrrLnj7cP8Ne/view?usp=sharing">**RESUME**</a>
+ ➥ Here is my Resume : <a href="https://drive.google.com/drive/u/0/folders/1ccI_cOcwUEGtqDuB8EVZWjEhDVPIj7UB">**RESUME**</a>
  
  ➥ Here is my Portfolio : <a href="https://kaustubhbadveportfolio.netlify.app/">**PORTFOLIO**</a>
 

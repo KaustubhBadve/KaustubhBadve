@@ -9,13 +9,18 @@
 
 <p align="left"> 
 
- ➥ Here is my Resume : <a href="https://drive.google.com/drive/u/0/folders/1ccI_cOcwUEGtqDuB8EVZWjEhDVPIj7UB">**RESUME**</a>
+ ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1dC4sCBO_hyx3bTfFzOYSmEuYemFy0zzv/view?usp=sharing">**RESUME**</a>
  
  ➥ Here is my Portfolio : <a href="https://kaustubhbadveportfolio.netlify.app/">**PORTFOLIO**</a>
 
- <li>🌱 Currently learning <b> Mongo Frameworks </b></li>
+ <li><b> Tech Stack worked on </b></li>
 
- <li>💬 Ask me about anything about <b> MERN Stack </b></li>
+ <li><b> ⁠⁠Languages : Javascript, HTML, CSS </b></li>
+ <li><b> Databases : SQL, NoSQL, (MySQL, MongoDB )</b></li>
+ <li><b> ORM : Mongoose (for MongoDB), Sequelize (for MySQL)</b></li>
+ <li><b> ⁠Frameworks :  Node.js, Express (Node.js framework), React.js , Redux</b></li>
+ <li><b> ⁠Libraries/UI Frameworks :   Ant Design, Chakra UI</b></li>
+ <li><b> Others : Google App Script, DSA etc </b></li>
 
  <li> 📫 Reach me at <b> Kaustubhbadve7@gmail.com </b></li>
  
@@ -24,7 +29,7 @@
 <hr>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kaustubh-badve-457913169/" target="blank"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin.com/in/kaustubh-badve-457913169" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/kaustubh-badve-457913169/" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAAAaVBMVEUKZsL///8AYsDo7fdjiM0AV725yecAX8AAXL+dtt9sldIAZMHr8PgAVb3O2e4fbcUAUrz0+PyTrtzH1u0ucsYATLpDfck5eciOqNrf6PVdis6AoNdlkdGmvOJljc/Czemww+VTg8zX4PHtcv3dAAACjUlEQVR4nO2b0ZKiMBBFQ6MmGhAQHUVwFP7/IwecUSHB2Y3bZajae54sI3Iq3YROo0IAAAAAAAAAAAAAADBEE5HWvi36aCnF9mMvSJJvlTtSH/Kgo9js575lflDHMLiRHdQkYqjKoE+e+hZqUVUw5KR8KwmdRIZU8Ok92+XSdAoK3wHUFFpSwdbzVNHWdgo2nrNKmmnesfC8WMlyROrsW2o1QSnaj0gtPeeUFpktdZR+pYS8WE7ZzrOTkMfJrQgtsbmkn30HT3QFXj4MnvZ+62vR6abntKBJ1FNt9VLfJqsop1MQU6yqzWlZJukE8umBlkqp6cwSeAO6w7dEH5KSuk01tS/4xdrdscHjHGSM0P2YdF+e8iKKwiZfltuY20tXK4PkdgaqjZHj9/uSqqZfXERNpVnXEk3WFmt2m5D4bIw0bakj9HxVWDfxYjVnnKyR7cxdar4wRtatlExM1W9ywbfKOUq1t6SRPdmVqGYreRylVP1EqSWruRLLTUp+jFTPj7ni2sU6SllXxYCCqY/kJHW2C/ohTJW0k9Sf4Qkgs9QlnqBUtuXIKmap4MCRVdxSOUdSvSr1bL3KBEP8XpFal3KX7tSqGRusGabKXSqr5DVvtJKbkWGOpHKWKnqlUzpidWZYFJylkn54yI5gw9BbdpWqBtEZaZmGDG1AR6m10WpIbSmGet1RqjTSOM7NT4QMHRJHKfOMykr190sVZueRrO7y+6Ws650+/UudzEuLZv6lrA47pCAFKUhBClKQghSkIAUpSEEKUpD676SeP0N+SSpikWqicMhD6hINyaxHZzQzDo4ajt86df8jGHL/0v63J1ecDv8nK5NfhkZO+BcfAQAAAAAAAAAAAABgSnwBGlMvthfUovwAAAAASUVORK5CYII=" alt="linkedin.com/in/kaustubh-badve-457913169" height="30" width="120" /></a>
 <a href="https://kaustubhbadveportfolio.netlify.app/" target="blank"><img align="center" src="https://camo.githubusercontent.com/56e6045a9403c591ff7c6a997edcd1566597519fa8b8e1129b4919bf10b5c2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465" alt="kaustubh badve" height="30" width="120" /></a>
 <a href="https://www.linkedin.com/in/kaustubh-badve-457913169/" target="blank"><img align="center" src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="kaustubh_badve"  height="30" width="120" /></a>
 </div>

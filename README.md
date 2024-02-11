@@ -10,8 +10,7 @@
 <p align="left"> 
 
  ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1dC4sCBO_hyx3bTfFzOYSmEuYemFy0zzv/view?usp=sharing">**RESUME**</a>
- 
- ➥ Here is my Portfolio : <a href="https://kaustubhbadveportfolio.netlify.app/">**PORTFOLIO**</a>
+
 
  <li><b> Tech Stack worked on </b></li>
 
@@ -22,6 +21,7 @@
  <li><b> ⁠Libraries/UI Frameworks :   Ant Design, Chakra UI</b></li>
  <li><b> Others : Google App Script, DSA etc </b></li>
 
+<hr><br><br><br><br>
  <li> 📫 Reach me at <b> Kaustubhbadve7@gmail.com </b></li>
  
 <br><br><br><br>
@@ -32,11 +32,6 @@
 </div>
 <hr>
 <br>
-
-<h1 align="center"><i>My GitHub stats:</i></h1>
-<hr>
-<p style="backgroundcolor: green" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhbadve&" alt="kaustubhbadve" /></p>
-<br><hr>
 <p><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/></p>
 
 

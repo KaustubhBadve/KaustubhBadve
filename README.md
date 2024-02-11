@@ -1,10 +1,7 @@
 
 
-![snake gif](https://github.com/KaustubhBadve/KaustubhBadve/blob/output/github-contribution-grid-snake.gif)
-
-
 <h1 align="center" allignitem="center">Hi 👋, I'm Kaustubh Badve</h1>
-<h2 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h2>
+<h2 align="center">I'm a Full Stack Web Developer who focuses on writing clean, elegant and efficient code.</h2>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 

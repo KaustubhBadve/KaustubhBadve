@@ -21,14 +21,12 @@
  <li><b> ⁠Libraries/UI Frameworks :   Ant Design, Chakra UI</b></li>
  <li><b> Others : Google App Script, DSA etc </b></li>
 
-<hr><br><br><br><br>
+<hr><br>
  <li> 📫 Reach me at <b> Kaustubhbadve7@gmail.com </b></li>
  
-<br><br><br><br>
-<h1 align="center"><i>Connect with me:</i></h1>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kaustubh-badve-457913169/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="linkedin.com/in/kaustubh-badve-457913169" height="30" width="60" /></a>
+<div align="center" display="flex">
+<h1 ><i>Connect with me:</i></h1>
+<a href="https://www.linkedin.com/in/kaustubh-badve-457913169/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="linkedin.com/in/kaustubh-badve-457913169" height="50" width="60" /></a>
 </div>
 <hr>
 <br>
